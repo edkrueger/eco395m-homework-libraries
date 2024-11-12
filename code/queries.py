@@ -19,7 +19,7 @@ query_3 = """
 
 # PROBLEM 4
 # Find the total number of visits in each state for the 2014 dataset. Be careful about invalid values.
-# Return a two columns called "stabr" and "visits" with rows in descending order of visits.
+# Return a two columns called "state" and "visits" with rows in descending order of visits.
 
 query_4 = """
 """

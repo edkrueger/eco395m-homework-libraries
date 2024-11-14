@@ -32,7 +32,7 @@ query_5 = """
 """
 
 # PROBLEM 6
-# Find the difference in total visits from 2009 to 2014 for libraries (fscskey) in both dataset.
+# Find the difference in total visits from 2009 to 2014 for libraries (fscskey) that are in both datasets and have valid data for both years.
 # Return a single column called "change_in_visits" with a single row containing the total.
 
 query_6 = """
